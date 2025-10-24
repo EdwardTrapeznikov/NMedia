@@ -13,7 +13,7 @@
         android:id="@+id/avatar"
         android:layout_width="48dp"
         android:layout_height="48dp"
-        android:contentDescription="@string/avatar_description"
+        android:contentDescription="@string/Avatar_description"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/netology" />
