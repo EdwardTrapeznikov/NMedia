@@ -13,7 +13,7 @@
         android:id="@+id/avatar"
         android:layout_width="48dp"
         android:layout_height="48dp"
-        android:contentDescription="@string/Avatar_description"
+        android:contentDescription="@string/avatar_description"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/netology" />
@@ -129,7 +129,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
-        android:contentDescription="@string/share"
+        android:contentDescription="@string/viewer"
         app:layout_constraintEnd_toStartOf="@id/counterViewers"
         app:layout_constraintTop_toTopOf="@id/bottomBarier"
         app:srcCompat="@drawable/baseline_visibility_24"
