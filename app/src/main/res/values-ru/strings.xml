@@ -5,6 +5,7 @@
     <string name="avatar_description">Аватар</string>
     <string name="menu_description">Меню</string>
     <string name="likes">Нравится</string>
+    <string name="Likes">Нравится</string>
     <string name="share">Поделились</string>
     <string name="viewer">Просмотров</string>
 </resources>
